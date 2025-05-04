@@ -38,4 +38,4 @@ Now you probably want to know ***How ...?*** am I going to do this, so my learni
 1. I am currently developing ideas for a couple of small projects that I will use to implement the most interesting concepts in Go, talk of go routines, select and other concepts.
 2. I am also working on developing a bigger project that I am calling my capestone hahaha (college days where fun). 
 
-Now if you're fascinated or interested in learning go, come along on the journey I will be sharing very short and quick notes and pointers to help others learning go. Thank you for reading through my ramblings.
+Now if you're fascinated or interested in learning Go, come along on the journey I will be sharing very short and quick notes and pointers to help others learning Go. Thank you for reading through my ramblings.
