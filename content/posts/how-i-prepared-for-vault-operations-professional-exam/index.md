@@ -1,7 +1,7 @@
 ---
 title: "How I prepared for the Vault Certified Operations Professional exam"
 date: 2025-04-19T14:11:42+10:00
-draft: false
+draft: true
 ---
 
 
